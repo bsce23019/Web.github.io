@@ -1,0 +1,4 @@
+License Plate: 123
+Model: 1
+Year: 2021
+Is Parked: Yes
